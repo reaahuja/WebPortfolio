@@ -135,7 +135,8 @@ p{
 
 .middle-container{
     justify-content: center;
-    background-color: #98BAE7;
+    border: 3px solid #4C3A51;
+    padding: 20px;
 }
 
 
@@ -145,17 +146,12 @@ p{
     margin: 8rem 8rem 2rem;
 }
 
-.underlineHeader{
-    text-decoration: underline;
-    text-decoration-color: #774360;
-    font-weight: bolder;
-}
-
-.underlineDescription{
+.underline{
     text-decoration: underline;
     text-decoration-color: #B25068;
     font-weight: bolder;
 }
+
 
 .underlineDescription-other{
     text-decoration: underline;
@@ -171,7 +167,7 @@ p{
     font-size: 3rem;
     text-decoration: underline;
     text-decoration-color: #B25068;
-   background-color: #98BAE7;
+    border-bottom: none;
    margin-bottom: 0;
    padding-top: 30px;
 }
@@ -237,3 +233,19 @@ p{
     text-decoration: underline;
     text-decoration-color: #E7AB79;
 }
+
+/* Footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
