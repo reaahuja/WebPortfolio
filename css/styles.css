@@ -31,12 +31,12 @@ p{
 }
 
 .colored-container{
-    background-color: #4C3A51;
+    background-color: #2D2727;
     color: white;
 }
 
 .projects-container{
-    background-color: #B25068;
+    background-color: #413543;
     color: white;
 }
 
@@ -135,7 +135,7 @@ p{
 
 .middle-container{
     justify-content: center;
-    background-color: #E7AB79;
+    background-color: #98BAE7;
 }
 
 
@@ -171,7 +171,7 @@ p{
     font-size: 3rem;
     text-decoration: underline;
     text-decoration-color: #B25068;
-   background-color: #E7AB79;
+   background-color: #98BAE7;
    margin-bottom: 0;
    padding-top: 30px;
 }
@@ -237,19 +237,3 @@ p{
     text-decoration: underline;
     text-decoration-color: #E7AB79;
 }
-
-/* Footer */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
