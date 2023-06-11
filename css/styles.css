@@ -81,9 +81,16 @@ p{
 
 
 /* Navigation Bar */
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
 .navbar{
     font-family: 'Roboto Flex';
     padding: 0 0 4.5rem 0;
+    
 }
 
 .navbar-brand{
