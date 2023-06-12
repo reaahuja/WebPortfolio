@@ -26,12 +26,12 @@ p{
 /* Sections */
 
 .white-container{
-    background-color: white;
+    background-color: #faebeb;
     color: black;
 }
 
 .colored-container{
-    background-color: #2D2727;
+    background-color: #46458C;
     color: white;
 }
 
