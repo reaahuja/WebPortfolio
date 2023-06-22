@@ -26,17 +26,17 @@ p{
 /* Sections */
 
 .white-container{
-    background-color: #faebeb;
+    background-color: #F5EFE7;
     color: black;
 }
 
 .colored-container{
-    background-color: #46458C;
+    background-color: #213555;
     color: white;
 }
 
 .projects-container{
-    background-color: #413543;
+    background-color: #4F709C;
     color: white;
 }
 
@@ -155,14 +155,14 @@ body {
 
 .underline{
     text-decoration: underline;
-    text-decoration-color: #B25068;
+    text-decoration-color: #213555;
     font-weight: bolder;
 }
 
 
 .underlineDescription-other{
     text-decoration: underline;
-    text-decoration-color: #B25068;
+    text-decoration-color: #213555;
 }
 
 .full-features-desc{
@@ -173,7 +173,7 @@ body {
 .features-title{
     font-size: 3rem;
     text-decoration: underline;
-    text-decoration-color: #B25068;
+    text-decoration-color: #213555;
     border-bottom: none;
    margin-bottom: 0;
    padding-top: 30px;
@@ -187,7 +187,7 @@ body {
   }
 
   .btn-custom-color {
-    background-color: #4C3A51; 
+    background-color: #213555; 
     color: white; 
   }
   
@@ -209,13 +209,13 @@ body {
 .projects-title{
     font-size: 3rem;
     text-decoration: underline;
-    text-decoration-color: #E7AB79;
+    text-decoration-color: #F5EFE7;
     margin-bottom: 3%;
 }
 
 .project-subHeadings{
     text-decoration: underline;
-    text-decoration-color: #4C3A51;
+    text-decoration-color: #D8C4B6;
 }
 
 .card-header{
