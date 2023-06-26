@@ -196,6 +196,11 @@ body {
 
 /* Projects */
 
+.project-image {
+  width: 100%; 
+  height: 200px; 
+}
+
 .button-container {
     display: inline-flex;
     gap: 10px; /* Adjust the gap between the buttons as needed */
