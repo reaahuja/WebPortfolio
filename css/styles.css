@@ -67,19 +67,25 @@ p{
 }
 
 .circle-container {
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
-    overflow: hidden; 
+    overflow: hidden;
     margin-left: 12%;
     margin-top: 7%;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
   }
   
   .circle-container img {
     width: 100%;
-    height: auto;
-    object-fit: cover; 
+    height: 100%;
+    object-fit: cover;
   }
+  
+  
+  
 
   .typing-animation {
     animation: typing 5s steps(20) infinite;
