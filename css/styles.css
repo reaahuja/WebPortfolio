@@ -73,9 +73,12 @@ p{
     overflow: hidden;
     margin-left: 12%;
     margin-top: 7%;
-    /* display: flex; */
+    display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url("images/ReaAhuja.png");
+    background-size: cover;
+    background-position: center;
   }
   
   .circle-container img {
