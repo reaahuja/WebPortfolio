@@ -1,6 +1,7 @@
 body{
     font:'Poppins';
     text-align: center;
+    background-color: #121212;
 }
 
 h1, h2{
@@ -26,17 +27,18 @@ p{
 /* Sections */
 
 .white-container{
-    background-color: #F5EFE7;
-    color: black;
+    background-color: #1d1d1d;
+    color: #BCCCDC;
+    border-radius: 70px;
 }
 
 .colored-container{
-    background-color: #213555;
+    background-color: #121212;
     color: white;
 }
 
 .projects-container{
-    background-color: #4F709C;
+    background-color: #121212;
     color: white;
 }
 
@@ -142,7 +144,7 @@ body {
 
 .middle-container{
     justify-content: center;
-    border: 3px solid #4C3A51;
+    /* border: 3px solid #BCCCDC; */
     padding: 20px;
 }
 
@@ -153,16 +155,28 @@ body {
     margin: 8rem 8rem 2rem;
 }
 
+.features-body{
+    color: #BCCCDC;
+}
+
 .underline{
     text-decoration: underline;
-    text-decoration-color: #213555;
+    text-decoration-color: #007aff;
     font-weight: bolder;
 }
+.underline-name {
+    text-decoration: underline;
+    text-decoration-color: #007aff;
+    text-decoration-thickness: 5%;
+    font-weight: bolder;
+    text-underline-offset: 5px; 
+}
+
 
 
 .underlineDescription-other{
     text-decoration: underline;
-    text-decoration-color: #213555;
+    text-decoration-color: #007aff;
 }
 
 .full-features-desc{
@@ -170,10 +184,14 @@ body {
     font-size: 1.3rem;
 }
 
+.features-desc{
+    color: #BCCCDC;
+}
+
 .features-title{
     font-size: 3rem;
     text-decoration: underline;
-    text-decoration-color: #213555;
+    text-decoration-color: #007aff;
     border-bottom: none;
    margin-bottom: 0;
    padding-top: 30px;
@@ -187,7 +205,7 @@ body {
   }
 
   .btn-custom-color {
-    background-color: #213555; 
+    background-color: #007aff; 
     color: white; 
   }
   
